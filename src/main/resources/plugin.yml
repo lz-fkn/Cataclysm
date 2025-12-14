@@ -1,0 +1,9 @@
+name: Cataclysm
+main: lz.mc.cataclysm.Cataclysm
+version: '0.4.2'
+api-version: '1.21'
+author: Elzzie
+commands:
+  cataclysm:
+    description: Main command for Cataclysm
+    usage: /cataclysm
